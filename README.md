@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankgeorge
-- 👀 I’m interested in Financial Engineering
-- 🌱 I’m currently working on React.js, Python and Go. 
+- 👀 I’m interested in Cloud and automation Engineering
+- 🌱 I’m currently working on Ansible, AWS, React.js, Python and Go. 
 - 📫 How to reach me? - whatsapp: 9551250396
 
 <!---
